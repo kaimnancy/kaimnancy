@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Nancy - a passionate frontend developer from India" width="100%"/>
+<img src="./assets/banner.svg" alt="Nancy - i have a computer" width="100%"/>
 
-<img src="./assets/tagline.svg" alt="sipping matcha & shipping code" width="80%"/>
+<img src="./assets/tagline.svg" alt="how about you give me a job" width="80%"/>
 
 <img src="https://komarev.com/ghpvc/?username=kaimnancy&label=Visitors&color=5E8A4F&labelColor=7A1F2B&style=flat-square" alt="profile views" />
 
