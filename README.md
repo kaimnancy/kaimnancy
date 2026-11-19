@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" alt="Nancy - a passionate frontend developer from India" width="100%"/>
 
-<img src="./assets/tagline.svg" alt="sipping matcha & shipping code" width="80%"/>
+<img src="./assets/tagline.svg" alt="sipping matcha & shipping code" width="70%"/>
 
 <img src="https://komarev.com/ghpvc/?username=kaimnancy&label=Visitors%20%F0%9F%8C%B8&color=EC407A&labelColor=C2185B&style=flat-square" alt="profile views" />
 
@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/h-about.svg" alt="About Me" width="70%"/>
+<img src="./assets/h-about.svg" alt="About Me" width="55%"/>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/h-connect.svg" alt="Connect With Me" width="70%"/>
+<img src="./assets/h-connect.svg" alt="Connect With Me" width="55%"/>
 
 <a href="https://linkedin.com/in/nancykaim7" target="blank"><img src="https://img.shields.io/badge/LinkedIn-nancykaim7-EC407A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C2185B" alt="LinkedIn" /></a>
 <a href="https://instagram.com/nanseasons" target="blank"><img src="https://img.shields.io/badge/Instagram-nanseasons-F06292?style=for-the-badge&logo=instagram&logoColor=white&labelColor=D81B60" alt="Instagram" /></a>
@@ -35,7 +35,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/h-tools.svg" alt="Tools I Love" width="70%"/>
+<img src="./assets/h-tools.svg" alt="Tools I Love" width="55%"/>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
@@ -53,7 +53,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/h-garden.svg" alt="My GitHub Garden" width="70%"/>
+<img src="./assets/h-garden.svg" alt="My GitHub Garden" width="55%"/>
 
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=kaimnancy&show_icons=true&border_radius=20&border_color=F4A6C0&bg_color=FFF0F6&title_color=C2185B&text_color=8E2A56&icon_color=EC407A&ring_color=D81B60&custom_title=Nancy's%20GitHub%20Stats" alt="GitHub stats" />
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimnancy&layout=compact&card_width=330&border_radius=20&border_color=F4A6C0&bg_color=FFF0F6&title_color=C2185B&text_color=8E2A56&custom_title=Most%20Used%20Languages" alt="Top languages" />
@@ -66,7 +66,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/h-sparkles.svg" alt="Stars and Sparkles" width="70%"/>
+<img src="./assets/h-sparkles.svg" alt="Stars and Sparkles" width="55%"/>
 
 <img src="https://img.shields.io/github/stars/kaimnancy?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Stars%20Earned&color=EC407A&labelColor=C2185B" alt="Total stars" />
 <img src="https://img.shields.io/github/followers/kaimnancy?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=F06292&labelColor=D81B60" alt="Followers" />
@@ -76,7 +76,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/h-bloom.svg" alt="Contribution Bloom" width="70%"/>
+<img src="./assets/h-bloom.svg" alt="Contribution Bloom" width="55%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaimnancy&bg_color=FFF0F6&color=C2185B&line=F06292&point=AD1457&area=true&area_color=F8BBD0&hide_border=false&border_radius=20&custom_title=Contribution%20Activity&title_color=C2185B&height=300" alt="Contribution activity graph" width="95%" />
 </div>
