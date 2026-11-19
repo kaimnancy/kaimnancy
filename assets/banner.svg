@@ -11,5 +11,5 @@
 <g clip-path="url(#c)"><circle cx="70" cy="120" r="70" fill="#5E8A4F" opacity=".10"/><circle cx="840" cy="30" r="64" fill="#7A1F2B" opacity=".08"/></g>
 <text class="rise" style="animation-delay:.2s" x="450" y="76" text-anchor="middle" font-family="PS,'Segoe UI',Arial,sans-serif" font-size="52" font-weight="600" letter-spacing="3" fill="#7A1F2B">Nancy</text>
 <rect class="fade" style="animation-delay:1s" x="420" y="90" width="60" height="3" rx="1.5" fill="#5E8A4F"/>
-<text class="rise" style="animation-delay:1.2s" x="450" y="123" text-anchor="middle" font-family="PR,'Segoe UI',Arial,sans-serif" font-size="15" letter-spacing="2" fill="#3F5A33">a passionate frontend developer from India</text>
+<text class="rise" style="animation-delay:1.2s" x="450" y="123" text-anchor="middle" font-family="PR,'Segoe UI',Arial,sans-serif" font-size="15" letter-spacing="2" fill="#3F5A33">heavily unemployed and heavily overqualified</text>
 </svg>
