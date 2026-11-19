@@ -1,48 +1,52 @@
-<!-- 🍵 Matcha (#9CAF88 / #B5C99A / #EEF3E2)  ×  🍒 Maroon (#800020) -->
+<!-- 📼 RETRO PALETTE: cream #F5E9CF · matcha #9CAF88 · olive #7D8F4E · tomato #A4262C · maroon #800020 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Hi%20%F0%9F%8D%B5%2C%20I'm%20Nancy&fontSize=48&fontColor=F1F7E9&animation=fadeIn&fontAlignY=36&desc=a%20passionate%20frontend%20developer%20from%20India%20%F0%9F%8C%B8&descSize=17&descAlignY=58" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=7D8F4E&height=200&section=header&text=NANCY.EXE&fontSize=58&fontColor=F5E9CF&fontAlign=50&fontAlignY=42&desc=%E2%80%A2%20frontend%20developer%20%E2%80%A2%20india%20%E2%80%A2&descSize=16&descAlignY=66&descColor=800020" alt="header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=800020&center=true&vCenter=true&width=480&lines=sipping+matcha+%26+shipping+code+%F0%9F%8D%B5;building+cute+%26+useful+interfaces+%F0%9F%8C%B8;currently+working+on+Gauri+%F0%9F%90%84;always+learning+something+new+%F0%9F%8D%93" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=640&height=40&lines=PLAYER+1+READY...;sipping+matcha+%26+shipping+code;now+loading%3A+Gauri+%F0%9F%90%84;INSERT+COIN+TO+COLLAB+%E2%99%A5" alt="typing animation" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kaimnancy&label=Profile%20views&color=800020&labelColor=9CAF88&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=kaimnancy&label=PLAYERS%20VISITED&color=800020&labelColor=7D8F4E&style=flat-square" alt="profile views" />
 
 </div>
 
 <br/>
 
-## 🍵 &nbsp;About me
+```
+╔══════════════════════════════════════════════╗
+║  ▓▒░  P L A Y E R   P R O F I L E  ░▒▓       ║
+╚══════════════════════════════════════════════╝
+```
 
-<table>
-<tr>
-<td>
-
-🔭 &nbsp;I'm currently working on **[Gauri : a livestock assistant](https://github.com/kaimnancy/gauri-livestock-assistant)** 🐄
-
-🌱 &nbsp;Learning, building & growing one commit at a time
-
-📫 &nbsp;How to reach me: **nancy.work.in@gmail.com**
-
-</td>
-</tr>
-</table>
+🍵 **NAME:** Nancy
+🕹️ **CLASS:** Frontend Developer
+🌏 **LOCATION:** India
+🔭 **CURRENT QUEST:** [Gauri : a livestock assistant](https://github.com/kaimnancy/gauri-livestock-assistant) 🐄
+📫 **SEND A MESSAGE:** nancy.work.in@gmail.com
 
 <br/>
 
-## 🌸 &nbsp;Connect with me
+```
+╔══════════════════════════════════════════════╗
+║  ▓▒░  C O N T A C T S   ░▒▓                  ║
+╚══════════════════════════════════════════════╝
+```
 
 <p align="left">
-<a href="https://linkedin.com/in/nancykaim7" target="blank"><img src="https://img.shields.io/badge/LinkedIn-nancykaim7-800020?style=for-the-badge&logo=linkedin&logoColor=F1F7E9&labelColor=9CAF88" alt="LinkedIn" /></a>
-<a href="https://instagram.com/nanseasons" target="blank"><img src="https://img.shields.io/badge/Instagram-nanseasons-9CAF88?style=for-the-badge&logo=instagram&logoColor=800020&labelColor=800020" alt="Instagram" /></a>
-<a href="mailto:nancy.work.in@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-800020?style=for-the-badge&logo=gmail&logoColor=F1F7E9&labelColor=9CAF88" alt="Email" /></a>
+<a href="https://linkedin.com/in/nancykaim7" target="blank"><img src="https://img.shields.io/badge/LinkedIn-nancykaim7-800020?style=flat-square&logo=linkedin&logoColor=F5E9CF&labelColor=7D8F4E" alt="LinkedIn" /></a>
+<a href="https://instagram.com/nanseasons" target="blank"><img src="https://img.shields.io/badge/Instagram-nanseasons-7D8F4E?style=flat-square&logo=instagram&logoColor=F5E9CF&labelColor=A4262C" alt="Instagram" /></a>
+<a href="mailto:nancy.work.in@gmail.com"><img src="https://img.shields.io/badge/Email-press%20start-A4262C?style=flat-square&logo=gmail&logoColor=F5E9CF&labelColor=7D8F4E" alt="Email" /></a>
 </p>
 
 <br/>
 
-## 🍓 &nbsp;Languages and Tools
+```
+╔══════════════════════════════════════════════╗
+║  ▓▒░  I N V E N T O R Y  (tools)  ░▒▓        ║
+╚══════════════════════════════════════════════╝
+```
 
 <p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -60,34 +64,39 @@
 
 <br/>
 
-## 🍒 &nbsp;GitHub Analytics
+```
+╔══════════════════════════════════════════════╗
+║  ▓▒░  H I - S C O R E S  (analytics)  ░▒▓    ║
+╚══════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-<!-- Stats card: stars earned, commits, PRs, issues, contributions -->
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=kaimnancy&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_radius=20&border_color=B5C99A&bg_color=EEF3E2&title_color=800020&text_color=4A5D3A&icon_color=800020&ring_color=800020&custom_title=Nancy's%20GitHub%20Stats%20%F0%9F%8D%B5" alt="GitHub stats" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimnancy&layout=compact&card_width=330&hide_border=false&border_radius=20&border_color=B5C99A&bg_color=EEF3E2&title_color=800020&text_color=4A5D3A&custom_title=Most%20Used%20Languages%20%F0%9F%8C%B8" alt="Top languages" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=kaimnancy&show_icons=true&border_radius=0&border_color=7D8F4E&bg_color=F5E9CF&title_color=800020&text_color=4A4A2A&icon_color=A4262C&ring_color=800020&custom_title=PLAYER%20STATS" alt="GitHub stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimnancy&layout=compact&card_width=330&border_radius=0&border_color=7D8F4E&bg_color=F5E9CF&title_color=800020&text_color=4A4A2A&custom_title=TOP%20SKILLS" alt="Top languages" />
 
 <br/><br/>
 
-<!-- Streak card -->
-<img src="https://streak-stats.demolab.com/?user=kaimnancy&theme=default&hide_border=false&border_radius=20&border=B5C99A&background=EEF3E2&stroke=B5C99A&ring=800020&fire=800020&currStreakNum=800020&sideNums=4A5D3A&currStreakLabel=800020&sideLabels=4A5D3A&dates=7A9E5F" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=kaimnancy&border_radius=0&border=7D8F4E&background=F5E9CF&stroke=7D8F4E&ring=800020&fire=A4262C&currStreakNum=800020&sideNums=4A4A2A&currStreakLabel=A4262C&sideLabels=4A4A2A&dates=7D8F4E" alt="GitHub streak" />
 
 </div>
 
 <br/>
 
-## ⭐ &nbsp;Stars & Achievements
+```
+╔══════════════════════════════════════════════╗
+║  ▓▒░  A C H I E V E M E N T S  ★  ░▒▓        ║
+╚══════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/kaimnancy?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=F1F7E9&label=Stars%20earned&color=800020&labelColor=9CAF88" alt="Total stars" />
-<img src="https://img.shields.io/github/followers/kaimnancy?style=for-the-badge&logo=github&logoColor=F1F7E9&label=Followers&color=9CAF88&labelColor=800020" alt="Followers" />
-<img src="https://img.shields.io/github/commit-activity/y/kaimnancy/gauri-livestock-assistant?style=for-the-badge&label=Gauri%20commits%20%2F%20year&color=800020&labelColor=9CAF88" alt="Commit activity" />
+<img src="https://img.shields.io/github/stars/kaimnancy?affiliations=OWNER&style=flat-square&logo=github&logoColor=F5E9CF&label=STARS%20EARNED&color=800020&labelColor=7D8F4E" alt="Total stars" />
+<img src="https://img.shields.io/github/followers/kaimnancy?style=flat-square&logo=github&logoColor=F5E9CF&label=FOLLOWERS&color=7D8F4E&labelColor=A4262C" alt="Followers" />
+<img src="https://img.shields.io/github/commit-activity/y/kaimnancy/gauri-livestock-assistant?style=flat-square&label=GAURI%20COMMITS%2FYR&color=A4262C&labelColor=7D8F4E" alt="Commit activity" />
 
 <br/><br/>
 
-<!-- Trophies (this service only supports preset themes, so "flat" keeps it soft) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=kaimnancy&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </a>
@@ -96,11 +105,16 @@
 
 <br/>
 
-## 🌿 &nbsp;Contribution & Commit Activity Graph
+```
+╔══════════════════════════════════════════════╗
+║  ▓▒░  L E V E L   P R O G R E S S  ░▒▓       ║
+║       (contribution & commit graph)          ║
+╚══════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaimnancy&bg_color=F1F7E9&color=800020&line=7A9E5F&point=800020&area=true&area_color=B5C99A&hide_border=true&radius=20&custom_title=Contribution%20Activity%20%F0%9F%8D%B5&title_color=800020&hide_title=false&height=300" alt="Contribution activity graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaimnancy&bg_color=F5E9CF&color=800020&line=7D8F4E&point=A4262C&area=true&area_color=9CAF88&hide_border=false&border_radius=0&custom_title=CONTRIBUTION%20ACTIVITY&title_color=800020&height=300" alt="Contribution activity graph" width="95%" />
 
 </div>
 
@@ -108,6 +122,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=thanks%20for%20stopping%20by%20%F0%9F%8D%B5%F0%9F%8C%B8&fontSize=20&fontColor=F1F7E9&fontAlignY=65" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A4262C&height=70&section=footer&text=GAME%20OVER%3F%20NAH%2C%20CONTINUE%20%E2%99%A5&fontSize=16&fontColor=F5E9CF&fontAlignY=60" alt="footer" width="100%"/>
 
 </div>
