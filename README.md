@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Nancy - i have a computer" width="100%"/>
+<img src="./assets/banner.svg" alt="Nancy" width="100%"/>
 
 <img src="./assets/tagline.svg" alt="how about you give me a job" width="80%"/>
 
