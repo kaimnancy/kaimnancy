@@ -13,7 +13,7 @@
 <div align="center">
 <img src="./assets/h-about.svg" alt="About Me" width="60%"/>
 
-🌿 **I'm Nancy**, a passionate frontend developer from India<br/>
+🌿 **I'm Nancy**, CS Masters Student and Researcher <br/>
 🍒 **Currently working on** [Gauri : a livestock assistant](https://github.com/kaimnancy/gauri-livestock-assistant)<br/>
 ✉️ **How to reach me** &nbsp;nancy.work.in@gmail.com
 </div>
