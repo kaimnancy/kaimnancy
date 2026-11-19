@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Nancy" width="100%"/>
+<img src="./assets/banner.svg?v=2" alt="Nancy - a passionate frontend developer from India" width="100%"/>
 
-<img src="./assets/tagline.svg" alt="how about you give me a job" width="80%"/>
+<img src="./assets/tagline.svg" alt="sipping matcha & shipping code" width="80%"/>
 
 <img src="https://komarev.com/ghpvc/?username=kaimnancy&label=Visitors&color=5E8A4F&labelColor=7A1F2B&style=flat-square" alt="profile views" />
 
@@ -13,7 +13,7 @@
 <div align="center">
 <img src="./assets/h-about.svg" alt="About Me" width="60%"/>
 
-🌿 **I'm Nancy**, Master Student and Researcher<br/>
+🌿 **I'm Nancy**, a passionate frontend developer from India<br/>
 🍒 **Currently working on** [Gauri : a livestock assistant](https://github.com/kaimnancy/gauri-livestock-assistant)<br/>
 ✉️ **How to reach me** &nbsp;nancy.work.in@gmail.com
 </div>
