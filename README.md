@@ -5,7 +5,7 @@
 <br/><br/>
 
 <a href="https://github.com/kaimnancy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=CS+Masters+Student+%26+Researcher;Building+Gauri+%2F%2F+Livestock+AI+Assistant;shipping+code+in+grey-blue+cybercore+%E2%9C%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=while+%28curious%29+%7B+build%28%29+%7D;git+commit+-m+%22ship+it%22" alt="Typing SVG" />
 </a>
 
 <br/>
